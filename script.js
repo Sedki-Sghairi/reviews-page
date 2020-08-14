@@ -16,7 +16,7 @@ const reviews = [
 	},
 	{
 		id: 3,
-		name: 'Darina Bohashova',
+		name: 'Darina Bohacova',
 		job: 'Business Owner',
 		img: 'images/darina.jpg',
 		text: 'If I need a wep page for one of my properties, I just call Sedki. He always exceeds my expectation!'
